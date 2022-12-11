@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    " S ",
+    "SES"
+  ],
+  "key": {
+    "S": {
+      "item": "alchemy:infused_stone"
+    },
+    "C": {
+      "item": "minecraft:cauldron"
+    },
+    "E": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "alchemy:crude_alchemical_workbench"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "alchemy:alchemical_crystal",
+    "data": 7,
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "data": 7,
+      "count": 1
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "data": 7,
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 7,
+      "count": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 7,
+      "count": 1
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "data": 7,
+      "count": 1
+    }
+  ]
+}

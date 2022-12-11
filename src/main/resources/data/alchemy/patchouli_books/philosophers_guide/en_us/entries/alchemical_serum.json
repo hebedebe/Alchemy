@@ -1,0 +1,12 @@
+{
+  "name": "Alchemical Serum",
+  "icon": "alchemy:alchemical_serum",
+  "category": "alchemy:brewing_recipes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "alchemy:alchemical_serum",
+      "text": "Alchemical serum can be created by brewing an alchemical crystal into a bottle o' enchanting."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "BGR",
+    " C "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "alchemy:alchemical_serum"
+  }
+}

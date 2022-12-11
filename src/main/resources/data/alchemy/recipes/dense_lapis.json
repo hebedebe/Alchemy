@@ -1,0 +1,16 @@
+{
+  "type": "alchemy:alchemical_processing",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "stability": 63,
+  "power": 0,
+  "chaos": 0,
+  "potential": 0,
+  "output": {
+    "item": "alchemy:dense_lapis"
+  },
+  "outputAmount": 1
+}

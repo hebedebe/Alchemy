@@ -1,0 +1,11 @@
+{
+  "name": "Brewing Infusion",
+  "icon": "minecraft:brewing_stand",
+  "category": "alchemy:brewing_recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Certain items can be imbued with alchemical properties in a brewing stand."
+    }
+  ]
+}

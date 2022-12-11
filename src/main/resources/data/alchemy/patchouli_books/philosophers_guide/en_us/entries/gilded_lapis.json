@@ -1,0 +1,12 @@
+{
+  "name": "Gilded Lapis",
+  "icon": "alchemy:gilded_lapis",
+  "category": "alchemy:brewing_recipes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "alchemy:gilded_lapis",
+      "text": "Gilded lapis can be created by combining dense lapis with a gold nugget in a brewing stand."
+    }
+  ]
+}

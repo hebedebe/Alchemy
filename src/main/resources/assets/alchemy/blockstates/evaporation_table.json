@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "alchemy:block/evaporation_table/evaporation_table"
+    }
+  }
+}

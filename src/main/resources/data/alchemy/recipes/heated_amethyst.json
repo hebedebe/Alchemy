@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst"
+    }
+  ],
+  "output": {
+    "item": "minecraft:lava_bucket"
+  }
+}

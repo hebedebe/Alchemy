@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=0": { "model": "alchemy:block/stable_plant/stage0" },
+    "age=1": { "model": "alchemy:block/stable_plant/stage1" },
+    "age=2": { "model": "alchemy:block/stable_plant/stage2" },
+    "age=3": { "model": "alchemy:block/stable_plant/stage3" }
+  }
+}

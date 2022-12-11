@@ -1,0 +1,16 @@
+{
+  "type": "alchemy:alchemical_processing",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "stability": 32,
+  "power": 0,
+  "chaos": 0,
+  "potential": 128,
+  "output": {
+    "item": "minecraft:diamond"
+  },
+  "outputAmount": 1
+}

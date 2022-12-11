@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    " D ",
+    "SES"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "D": {
+      "item": "alchemy:gilded_lapis"
+    },
+    "C": {
+      "item": "alchemy:gold_cauldron"
+    },
+    "E": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "alchemy:alchemical_workbench"
+  }
+}

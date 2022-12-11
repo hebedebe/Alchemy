@@ -1,0 +1,12 @@
+{
+  "name": "Gilded Blackstone",
+  "icon": "minecraft:gilded_blackstone",
+  "category": "alchemy:brewing_recipes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:gilded_blackstone",
+      "text": "Gilded blackstone can be created by combining blackstone with a gold nugget in a brewing stand."
+    }
+  ]
+}

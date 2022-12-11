@@ -1,0 +1,11 @@
+{
+  "type": "alchemy:evaporating_recipe",
+  "ingredients": [
+    {
+      "item": "alchemy:alchemical_serum"
+    }
+  ],
+  "output": {
+    "item": "alchemy:alchemical_essence"
+  }
+}
